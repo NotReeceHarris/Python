@@ -1,0 +1,105 @@
+{
+  "members": 0,
+  "token": "(discord token)",
+  "prefix": ".",
+  "status": "With",
+  "version": 1.1,
+  "uptime": 0,
+  "memberRole": "Member",
+  "welcomeChannel": "(welcome channel id)",
+  "redditClientID": "(reddit client id)",
+  "redditSecret": "(reddit secret id)",
+  "redditUsername": "(reddit username)",
+  "redditPassword": "(reddit password)",
+  "redditUserAgent": "CursedBotDiscord01",
+  "audioLoc": "audio/",
+  "wordBlacklist": "blacklistWords.txt",
+  "userBlacklist": "blacklistUser.txt",
+  "secretcommand": "no",
+  "jsonWord": "wordlist.json",
+  "welcomeMsg": [
+    "A mystical oldman called {} appeared",
+    "Why is {} here?",
+    "Guys, guess what {} is  here!",
+    "Finally your here {}!",
+    "Have you got my money yet {}!",
+    "How do you say that is it \"{}\"?",
+    "Welcome to your eternal doom {}!",
+    "Well this is awkward {} is here.",
+    "d2VsbCA= {} Y2FuIHNwZWFrIGJhc2U2NCAx",
+    "12345{}78910",
+    "Can {} run crysis?",
+    "Did anybody buy {}'s bathwater?",
+    "Is {} a bot?",
+    "{} is new here be nice kids!",
+    "HELP HELP {} IS BLEEDING OUT!!!",
+    "You better not be a furry {} *aims flame thrower*",
+    "You code secret code {} is 0139284184",
+    "Oh hi {} nice to see you *i dont know how to spell sarcastically*",
+    "I have sent you a dm {} please dont screen shot :wink: ",
+    "Is {} a troll ?",
+    "Hello {}! (This one is a bit boring lol)",
+    "Are you a angle {}? you look like you fell face first from heaven with that weird face!",
+    "Are you a snowflake {}?",
+    "INVITE ALL YOUR CONTACTS NO2 {} BEFORE I SHOOT YOU!!!!!"
+  ],
+  "redditNsfw": [
+    "nsfw",
+    "TeenBeauties",
+    "naked",
+    "FaceAndTits",
+    "PussyFinish",
+    "Bustier",
+    "thighgap",
+    "OnlyFansBrunette"
+  ],
+  "redditHentai": [
+    "ecchi",
+    "hentai",
+    "Sukebei",
+    "AnimeBooty",
+    "HentaiCleavage",
+    "ahegao",
+    "UnderOppai"
+  ],
+  "redditMeme": [
+    "dankmemes",
+    "memes",
+    "dankmeme",
+    "Memes_Of_The_Dank",
+    "me_irl"
+  ],
+  "redditWholesome": [
+    "Dogpic",
+    "dogpictures",
+    "DOG",
+    "cats",
+    "Catloaf",
+    "catpics",
+    "catpictures",
+    "petpictures",
+    "AWW"
+  ],
+  "redditDogs": [
+    "Dogpic",
+    "dogpictures",
+    "DOG",
+    "RAREPUPPERS"
+  ],
+  "redditCats": [
+    "cats",
+    "Catloaf",
+    "catpics",
+    "catpictures"
+  ],
+  "audioList": [
+    "dannyg",
+    "dongle",
+    "yournotfunny"
+  ],
+  "audioDesc": [
+    "Come to Smethwick Birmingham",
+    "Be all power full with **DONGLES**",
+    "Your not f*cking funny!"
+  ]
+}
